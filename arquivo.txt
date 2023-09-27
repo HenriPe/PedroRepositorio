@@ -1,6 +1,5 @@
 Algoritmo "Menu Lanchonete"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
 
 Var
 opcao, total, valor_item: Real
@@ -8,7 +7,7 @@ Inicio
 
 total <- 0
 
-Escreval("Bem-vindo! Pedro H. Lanches :)")
+Escreval("Bem-vindo! Pedro H. Lanches versao 2 :)")
 Escreval("Menu de Lanches:")
 Escreval("1  X-Salada: R$10,00")
 Escreval("2  X-Bacon: R$ 6,00")
